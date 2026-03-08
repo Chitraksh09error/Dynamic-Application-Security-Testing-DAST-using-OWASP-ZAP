@@ -67,3 +67,11 @@ cd ~/zap-results
 python3 -m http.server 8000
 ```
 ## Browse - http://20.xx.xx.xx:8000/zap-report.html
+
+## Output 
+<p align="center">
+  <img src="Images/OWASP-ZAP-JUICE.png" width="700">
+</p>
+<p align="center">
+  <img src="Images/ZAP-report-html.png" width="700">
+</p>
