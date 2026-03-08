@@ -75,3 +75,5 @@ python3 -m http.server 8000
 <p align="center">
   <img src="Images/ZAP-Report-html.png" width="700">
 </p>
+
+# If you find this repository helpful, please give it a star ⭐ and share it with others to support the project. 🙌
