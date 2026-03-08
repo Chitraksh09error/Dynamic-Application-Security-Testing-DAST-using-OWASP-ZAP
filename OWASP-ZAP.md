@@ -73,5 +73,5 @@ python3 -m http.server 8000
   <img src="Images/OWASP-ZAP-JUICE.png" width="700">
 </p>
 <p align="center">
-  <img src="Images/ZAP-report-html.png" width="700">
+  <img src="Images/ZAP-Report-html.png" width="700">
 </p>
